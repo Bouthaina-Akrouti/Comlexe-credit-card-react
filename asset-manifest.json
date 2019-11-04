@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Comlexe-credit-card-react/static/css/main.59cd7412.chunk.css",
+    "main.js": "/Comlexe-credit-card-react/static/js/main.3ed645aa.chunk.js",
+    "main.js.map": "/Comlexe-credit-card-react/static/js/main.3ed645aa.chunk.js.map",
+    "runtime-main.js": "/Comlexe-credit-card-react/static/js/runtime-main.52471ec8.js",
+    "runtime-main.js.map": "/Comlexe-credit-card-react/static/js/runtime-main.52471ec8.js.map",
+    "static/js/2.23692ef1.chunk.js": "/Comlexe-credit-card-react/static/js/2.23692ef1.chunk.js",
+    "static/js/2.23692ef1.chunk.js.map": "/Comlexe-credit-card-react/static/js/2.23692ef1.chunk.js.map",
+    "index.html": "/Comlexe-credit-card-react/index.html",
+    "precache-manifest.35378138b1efb61bc3cc0ee5698ab201.js": "/Comlexe-credit-card-react/precache-manifest.35378138b1efb61bc3cc0ee5698ab201.js",
+    "service-worker.js": "/Comlexe-credit-card-react/service-worker.js",
+    "static/css/main.59cd7412.chunk.css.map": "/Comlexe-credit-card-react/static/css/main.59cd7412.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52471ec8.js",
+    "static/js/2.23692ef1.chunk.js",
+    "static/css/main.59cd7412.chunk.css",
+    "static/js/main.3ed645aa.chunk.js"
+  ]
+}
